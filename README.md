@@ -21,17 +21,42 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 ## Exercícios
 
-|Código do Problema| Nome do Problema | Resolução | Dificuldade |
-|------------------|------------------|-----------|-------------|
-
+|Código do Problema| Nome do Problema | Resolução | Dificuldade
+|----------|----------|----------|----------|
+|1489| [Find critical and pseudo-critical edges in minimum spanning tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|assets/1489.png|Difícil|
+|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)|assets/1514.png|Médio|
+|3419|[Minimize the maximum edge weight of graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph)|assets/3419.png|Médio|
+|3547|[Maximum sum of edge values in a graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph)|assets/3547.png|Difícil|
 
 ## Apresentação
 
 [Link para a apresentação]
 
 ## Screenshots
+### 1489
+<center>
+
+![1489](./assets/1489.png)
+
+</center>
+
+### 1514
+
+<center>
+
+![1514](./assets/1514.png)
+
+</center>
 
 
+### 3419
+
+![3419](./assets/3419.png)
+
+
+### 3547
+
+![3547](./assets/3547.png)
 
 ## Pré-requisitos
 
