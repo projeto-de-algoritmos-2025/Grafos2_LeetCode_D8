@@ -23,14 +23,14 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 |Código do Problema| Nome do Problema | Resolução | Dificuldade
 |----------|----------|----------|----------|
-|1489| [Find critical and pseudo-critical edges in minimum spanning tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|assets/1489.png|Difícil|
-|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)|assets/1514.png|Médio|
-|3419|[Minimize the maximum edge weight of graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph)|assets/3419.png|Médio|
-|3547|[Maximum sum of edge values in a graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph)|assets/3547.png|Difícil|
+|1489| [Find critical and pseudo-critical edges in minimum spanning tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)|assets/[1489](./1489.java)|Difícil|
+|1514|[Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)|[1514](./assets/1514.png|Médio|
+|3419|[Minimize the maximum edge weight of graph](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph)|[3419](./3419.py)|Médio|
+|3547|[Maximum sum of edge values in a graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph)|[3547](./3547.py)|Difícil|
 
 ## Apresentação
 
-[Link para a apresentação]
+[Link para a apresentação](https://www.youtube.com/watch?v=rSvjtLfVsZM)
 
 ## Screenshots
 ### 1489
@@ -60,7 +60,7 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 ## Pré-requisitos
 
-### Python
+### PythonGrafos2_LeetCode_D8
 - Ter o [Python 3](https://www.python.org/downloads/) instalado na máquina.  
 - (Opcional) Criar e ativar um ambiente virtual:
   ```bash
